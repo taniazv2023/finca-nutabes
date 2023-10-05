@@ -639,7 +639,7 @@ footer {
 }
 
 footer a:hover {
-    color: #4fcaff;
+    color: #000;
 }
 
 footer .container > ul {
@@ -980,7 +980,7 @@ footer .item p {
 
 footer .copyright {
     padding: 15px 0 16px;
-    border-top: solid #10d0e7 1px;
+    border-top: solid #000 1px;
     margin-top: 30px;
 }
 
